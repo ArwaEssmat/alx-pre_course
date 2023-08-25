@@ -1,1 +1,1 @@
-readme of the first directory
+edited readme of the first directory from github
